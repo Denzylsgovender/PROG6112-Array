@@ -57,7 +57,7 @@ public class NameThatBox {
         }
 
         // Step 3: Print all the names using a loop
-        System.out.println("\n📋 List of Students:");
+        System.out.println("\n List of Students:");
         for (int i = 0; i < studentNames.length; i++) {
             System.out.println("Box " + i + " contains: " + studentNames[i]);
         }
